@@ -1,7 +1,8 @@
 ## Hi, I'm Oussama!
-- 🧑🏻‍💻 Data Science Student
-- 💻 I’m currently working on **a machine learning model to forecast the next cycle of the U.S. economy.**
+- 💻 Research Assistant, Consumer Behavior and Well-Being
 - 👨🏻‍🎓 Graduated with an MBA in Finance from Mercy University of New York
+- 🧑🏻‍💻 Data Science Student
+- 🔬 I’m currently working on **a machine learning model to forecast the next cycle of the U.S. economy.**
 - 📫 Reach me at **oussamamennaciri@gmail.com**
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamaennaciri)](https://github.com/anuraghazra/github-readme-stats)
