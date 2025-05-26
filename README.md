@@ -4,8 +4,6 @@
 - 🧑🏻‍💻 Data Science Student
 - 🔬 I’m currently working on **a machine learning model to forecast the next cycle of the U.S. economy.**
 - 📫 Reach me at **oussamamennaciri@gmail.com**
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamaennaciri)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
